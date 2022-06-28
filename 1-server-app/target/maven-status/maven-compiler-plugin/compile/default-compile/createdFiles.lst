@@ -1,0 +1,13 @@
+endpoints\EPSystem1$1.class
+entities\Mesto.class
+endpoints\EPSystem2$1.class
+endpoints\EPSystem1$2.class
+endpoints\EPSystem2$2.class
+entities\Filijala.class
+com\mycompany\server\app\JAXRSConfiguration.class
+endpoints\EPSystem1$3.class
+endpoints\EPSystem1.class
+entities\Racun.class
+entities\Transakcija.class
+endpoints\EPSystem2.class
+entities\Komitent.class
